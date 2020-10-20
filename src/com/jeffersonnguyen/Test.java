@@ -9,5 +9,9 @@ public class Test
     public static void main(String[] args)
     {
         System.out.println("Hello, World");
+
+        String firstName = "Jefferson";
+        String lastName = "Nguyen";
+        System.out.println(firstName + " " + lastName);
     }
 }
