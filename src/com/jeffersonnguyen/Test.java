@@ -17,7 +17,7 @@ public class Test
         //This part of the Test program will test the pull request from IntelliJ
         
         String nickName = "Jeff";
-        String fullName = firstName + lastName;
+        String fullName = nickName + " " +lastName;
         System.out.println(fullName);
     }
 }
